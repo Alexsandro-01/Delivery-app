@@ -77,7 +77,7 @@ npm start
 ```
 
 4. Entrando na aplicação:
-- Você pode criar um novo usuário para você clicando no potão de criar conta, em seguida vai ser redirecionado para a página de produtos onde poderá realizar pedidos.
+- Você pode criar um novo usuário para você clicando no botão de criar conta, em seguida vai ser redirecionado para a página de produtos onde poderá realizar pedidos.
 - Caso queira logar como vendedor para ver os pedidos que fez e poder mudar o status, você pode usar o login abaixo.
 
 ```json
